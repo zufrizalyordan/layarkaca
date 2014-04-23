@@ -466,6 +466,6 @@ ul {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin-top: -32px;
-    padding-left: 8px;
+    padding-left: 2px;
+    font-size: 0.8em;
   }
